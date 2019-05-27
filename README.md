@@ -5,10 +5,10 @@
 ### Неделя 5
 
 - [x] [Асинхронность: знакомство](https://vimeo.com/338397996/4cb3de9226)
-- [ ] [Event Loop: Как это работает](https://vimeo.com/338397080/3fe64e8f58)
-    - [ ] [https://habr.com/ru/company/oleg-bunin/blog/417461/](https://habr.com/ru/company/oleg-bunin/blog/417461/)
-    - [ ] [https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - одно из лучших видео про Event Loop (английский)
-    - [ ] [https://tylermcginnis.com/javascript-visualizer/](https://tylermcginnis.com/javascript-visualizer/) - крутая визуализация всего в JS
+- [x] [Event Loop: Как это работает](https://vimeo.com/338397080/3fe64e8f58)
+    - [x] [https://habr.com/ru/company/oleg-bunin/blog/417461/](https://habr.com/ru/company/oleg-bunin/blog/417461/)
+    - [x] [https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - одно из лучших видео про Event Loop (английский)
+    - [x] [https://tylermcginnis.com/javascript-visualizer/](https://tylermcginnis.com/javascript-visualizer/) - крутая визуализация всего в JS
 - [ ] [XHR: Первые запросы](https://vimeo.com/338395993/f118ee2ddd)
    - [ ] [Целый "сайт" посвященный XHR](https://xmlhttprequest.ru/)
     - [ ] Обзор [XMLHttpRequest level 2](https://habr.com/ru/post/120917/)
@@ -23,14 +23,14 @@
 ### Неделя 3
 
 - [x] [DOM и JS: первое знакомство](https://vimeo.com/337677227/384cf265f9)
-   - [ ] [https://learn.javascript.ru/dom-nodes](https://learn.javascript.ru/dom-nodes) - основы DOM
-    - [ ] [https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter13.html](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter13.html) - глава про DOM из книги "выразительный JS"
+   - [x] [https://learn.javascript.ru/dom-nodes](https://learn.javascript.ru/dom-nodes) - основы DOM
+    - [x] [https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter13.html](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter13.html) - глава про DOM из книги "выразительный JS"
 - [x] [Манипуляции с DOM: работа с элементами](https://vimeo.com/337677131/f748b45290)
-   - [ ] [https://www.youtube.com/watch?v=96K8ZCCCSDs](https://www.youtube.com/watch?v=96K8ZCCCSDs) - почти 2 часа видео про работу с DOM от проекта Kottans.org. Очень рекомендую просмотреть на 2х
+   - [x] [https://www.youtube.com/watch?v=96K8ZCCCSDs](https://www.youtube.com/watch?v=96K8ZCCCSDs) - почти 2 часа видео про работу с DOM от проекта Kottans.org. Очень рекомендую просмотреть на 2х
 - [x] [События в DOM: клик-клик](https://vimeo.com/337677011/cc853ec144)
-    - [ ] [https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter14.html](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter14.html) - глава из книги "выразительный JS"
+    - [x] [https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter14.html](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/chapters/chapter14.html) - глава из книги "выразительный JS"
 - [x] [Отладка DOM: маленькие секреты](https://vimeo.com/337676791/c984d37837)
-    - [ ] [https://developers.google.com/web/tools/chrome-devtools/dom/](https://developers.google.com/web/tools/chrome-devtools/dom/) - отладка DOM в devtools
+    - [x] [https://developers.google.com/web/tools/chrome-devtools/dom/](https://developers.google.com/web/tools/chrome-devtools/dom/) - отладка DOM в devtools
     - [x] [http://jem-space.ru/otlazhivaiem/](http://jem-space.ru/otlazhivaiem/) - неплохая русская адаптация
     - [x] [https://habr.com/ru/company/ruvds/blog/316132/](https://habr.com/ru/company/ruvds/blog/316132/) - еще парп полезных хитростей
 - [x] [Компонентный подход: основы архитектуры](https://vimeo.com/337676918/b94a2b16f9)
