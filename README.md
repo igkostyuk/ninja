@@ -9,16 +9,16 @@
     - [x] [https://habr.com/ru/company/oleg-bunin/blog/417461/](https://habr.com/ru/company/oleg-bunin/blog/417461/)
     - [x] [https://www.youtube.com/watch?v=8aGhZQkoFbQ](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - одно из лучших видео про Event Loop (английский)
     - [x] [https://tylermcginnis.com/javascript-visualizer/](https://tylermcginnis.com/javascript-visualizer/) - крутая визуализация всего в JS
-- [ ] [XHR: Первые запросы](https://vimeo.com/338395993/f118ee2ddd)
-   - [ ] [Целый "сайт" посвященный XHR](https://xmlhttprequest.ru/)
-    - [ ] Обзор [XMLHttpRequest level 2](https://habr.com/ru/post/120917/)
+- [x] [XHR: Первые запросы](https://vimeo.com/338395993/f118ee2ddd)
+   - [x] [Целый "сайт" посвященный XHR](https://xmlhttprequest.ru/)
+    - [x] Обзор [XMLHttpRequest level 2](https://habr.com/ru/post/120917/)
 - [ ] [XHR: CORS](https://vimeo.com/338392173/b98c5fca49)
     - [ ] [2 часовое видео от проекта Kottans.org](https://www.youtube.com/watch?v=QBv4EbpA1LA&list=PLr1siHsWN79BpMXpZv0rEo0b8Wqgf9SUv&index=14&t=0s)
     - [ ] [https://medium.com/@baphemot/understanding-cors-18ad6b478e2b](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b)
-- [ ] [XHR: Отладка](https://vimeo.com/338399105/7241acec7f)
-    - [ ] [очень хорошая статья по отладке асинхронного JS (на английском)](https://www.html5rocks.com/en/tutorials/developertools/async-call-stack/#toc-timer-xhr)
-- [ ] [**Асинхронность: обработка ошибок**](https://vimeo.com/338398352/4dce3bb26a)
-    - [ ] [http://callbackhell.com/](http://callbackhell.com/)
+- [x] [XHR: Отладка](https://vimeo.com/338399105/7241acec7f)
+    - [x] [очень хорошая статья по отладке асинхронного JS (на английском)](https://www.html5rocks.com/en/tutorials/developertools/async-call-stack/#toc-timer-xhr)
+- [x] [**Асинхронность: обработка ошибок**](https://vimeo.com/338398352/4dce3bb26a)
+    - [x] [http://callbackhell.com/](http://callbackhell.com/)
 
 ### Неделя 3
 
