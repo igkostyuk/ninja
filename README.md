@@ -2,6 +2,19 @@
 
 На данный момент выложен контент **по 3 неделю включительно (и задания и контент)**
 
+### Неделя 6
+
+- [x] [Promise: введение](https://vimeo.com/345292375/c57a673b84)
+    - [Про промисы у Кантора](https://learn.javascript.ru/promise)
+- [x] [Promise: типичные ошибки](https://vimeo.com/345292802/00fc8d7ec5)
+- [x] [Promise: async / await](https://vimeo.com/345292563/5e44e43257)
+
+- WebSockets
+- Event Sources
+- Работа с формами
+- Работа с файлами
+
+
 ### Неделя 5
 
 - [x] [Асинхронность: знакомство](https://vimeo.com/338397996/4cb3de9226)
@@ -97,3 +110,22 @@
     - [x] Статья по иммутабельности в объектах и массивах
     [https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
     - [x] [https://medium.freecodecamp.org/heres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c](https://medium.freecodecamp.org/heres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c)
+
+
+---
+
+## Node.js
+
+### Неделя 1
+
+   - [x] [Node.js - что ты такое?](https://vimeo.com/345140263/7d99686690)
+   - [x] [Экосистема: мир вокруг нас](https://vimeo.com/345140623/01d3876dd9)
+   - [x] [Соглашения: как пишут на Node.js](https://vimeo.com/345140548/2ee12cfc55)
+   - [x] [Buffer: еще один тип данных?](https://vimeo.com/345140506/566303babb)
+   - [x] [Работа с I/O: первое знакомство](https://vimeo.com/345140344/ba741ee443)
+   - [ ] Дополнительные материалы:
+        - [ ] [Про semver](https://habr.com/ru/company/Voximplant/blog/281593/)
+        - [ ] [Про semver (видео)](https://www.youtube.com/watch?v=44f0vmMVkLQ)
+        - [ ] [Немного про модули в Node.js](https://www.youtube.com/watch?v=9ExYQaplndw)
+        - [ ] [Видео с предыдущего курса про модули (аккуратно, 1.5 часа!)](https://www.youtube.com/watch?v=P2VSdAmnN4A)
+        - [ ] [Видео с предыдущего курса про EventEmitter (1.5 часа!)](https://www.youtube.com/watch?v=yAZB4WAeh2M)
