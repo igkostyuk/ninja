@@ -1,6 +1,34 @@
-# Контент
+# Live
 
-На данный момент выложен контент **по 3 неделю включительно (и задания и контент)**
+- [#6 2019-05-30 GG, BG Разбор задач 1-3 недель](https://www.youtube.com/watch?v=xu08lOaRI-8)
+- [#5 2019-05-29 Асинхронность](https://www.youtube.com/watch?v=XZcIvaUijjk)
+- [#4 2019-05-21 Есть кто DOMа?](https://www.youtube.com/watch?v=3qh-HzCueMo)
+- [#3 2019-05-19 Хитрость и отвага](https://www.youtube.com/watch?v=KWnfmoA5mm8)
+- [#2 2019-04-30 Код, тесты, вопросы](https://www.youtube.com/watch?v=eQ8dU2vRoMo)
+- [#1 2019-04-24 Совы, логика, общение](https://www.youtube.com/watch?v=JkbG0qGyxFg)
+
+### Неделя 9
+
+- Векторная графика: SVG
+- Canvas
+- Ленивая загрузка и code splitting
+- Базовый анализ производительности приложений
+
+### Неделя 8
+
+- Типичные “слои” JS-приложения
+- MVVM
+- Event-driven architecture
+- Single Source of Truth как фундаментальная концепция
+- Концепция SPA
+- Роутинг
+
+### Неделя 6.5
+
+- [ ] [Realtime: Введение](https://vimeo.com/352099236/9b26cdc18c)    
+- [ ] [Realtime: Современность](https://vimeo.com/352362647/13e3b7416a)     
+- [ ] Работа с формами     
+- [ ] Работа с файлами     
 
 ### Неделя 6
 
@@ -8,11 +36,6 @@
     - [Про промисы у Кантора](https://learn.javascript.ru/promise)
 - [x] [Promise: типичные ошибки](https://vimeo.com/345292802/00fc8d7ec5)
 - [x] [Promise: async / await](https://vimeo.com/345292563/5e44e43257)
-
-- WebSockets
-- Event Sources
-- Работа с формами
-- Работа с файлами
 
 
 ### Неделя 5
@@ -115,6 +138,26 @@
 ---
 
 ## Node.js
+
+- 3 Неделя
+    - [Архитектура: типичные слои](https://vimeo.com/352353237/5ed4c41fc9)
+    - [12 факторов: конфигурация](https://vimeo.com/352134488/bf835db0b6)
+    - [Тестирование: теория](https://vimeo.com/356394030/0a1ef0c730)
+        - Ссылка [https://www.youtube.com/watch?v=xjC1mt1owZg](https://www.youtube.com/watch?v=xjC1mt1owZg)
+    - [**LIVE #4: State Machine**](https://www.youtube.com/watch?v=K5UlS-h5-30)
+    - **["LIVE" #5: Ответы на вопросы](https://vimeo.com/356404934/7f1710d9d1)**
+
+- 2 Неделя. Потоки. HTTP
+    - [Streams: Введение](https://vimeo.com/347880806/8ceeae1aae)
+    - [Streams: Работа с потоками](https://vimeo.com/347880900/2ed2cc97cf)
+    - [Streams: async](https://vimeo.com/347881212/50e9e67709)
+    - [HTTP: Введение](https://vimeo.com/347881016/698b47c866)
+    - [HTTP: Middleware](https://vimeo.com/347881120/950e5b5142)
+    - [HTTP: Koa](https://vimeo.com/347881087/252be118fa)
+    - **[LIVE #2: Хватит винить тесты](https://www.youtube.com/watch?v=ZQXlRUXmUU4)**
+    - **[LIVE #3: Потоки данных](https://www.youtube.com/watch?v=R_CIS35v1Cc)**
+        - Запуск с ограничем по памяти `docker run -it --rm --name bmp **-m 64M** -v ${PWD}:/usr/src/app -w /usr/src/app node:latest node index.js big.bmp big2.bmp`
+    - Дополнительные материалы будут выложены чуть позже
 
 ### Неделя 1
 
