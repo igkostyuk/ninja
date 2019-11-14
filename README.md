@@ -27,10 +27,10 @@
 
 ### Неделя 6
 
-- [ ] [Realtime: Введение](https://vimeo.com/352099236/9b26cdc18c)    
-- [ ] [Realtime: Современность](https://vimeo.com/352362647/13e3b7416a)     
-- [ ] [Работа с формами](https://vimeo.com/372747302/0766c7721d)     
-- [ ] [Работа с файлами](https://vimeo.com/372747454/57481241db)    
+- [x] [Realtime: Введение](https://vimeo.com/352099236/9b26cdc18c)    
+- [x] [Realtime: Современность](https://vimeo.com/352362647/13e3b7416a)     
+- [x] [Работа с формами](https://vimeo.com/372747302/0766c7721d)     
+- [x] [Работа с файлами](https://vimeo.com/372747454/57481241db)    
 - [x] [Promise: введение](https://vimeo.com/345292375/c57a673b84)
     - [Про промисы у Кантора](https://learn.javascript.ru/promise)
 - [x] [Promise: типичные ошибки](https://vimeo.com/345292802/00fc8d7ec5)
