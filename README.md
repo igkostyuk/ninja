@@ -7,31 +7,30 @@
 - [#2 2019-04-30 Код, тесты, вопросы](https://www.youtube.com/watch?v=eQ8dU2vRoMo)
 - [#1 2019-04-24 Совы, логика, общение](https://www.youtube.com/watch?v=JkbG0qGyxFg)
 
+
 ### Неделя 9
 
-- Векторная графика: SVG
-- Canvas
-- Ленивая загрузка и code splitting
-- Базовый анализ производительности приложений
+- [ ] Концепция SPA
+- [ ] Роутинг
+- [ ] Векторная графика: SVG
+- [ ] Canvas
+- [ ] Ленивая загрузка и code splitting
+- [ ] Базовый анализ производительности приложений
 
 ### Неделя 8
 
-- Типичные “слои” JS-приложения
-- MVVM
-- Event-driven architecture
-- Single Source of Truth как фундаментальная концепция
-- Концепция SPA
-- Роутинг
-
-### Неделя 6.5
-
-- [ ] [Realtime: Введение](https://vimeo.com/352099236/9b26cdc18c)    
-- [ ] [Realtime: Современность](https://vimeo.com/352362647/13e3b7416a)     
-- [ ] Работа с формами     
-- [ ] Работа с файлами     
+- [ ] [Типичные “слои” JS-приложения](https://vimeo.com/372747587/c54605e156)
+- [ ] [MVVM](https://vimeo.com/372747094)
+- [ ] [Event-driven architecture](https://vimeo.com/372747243/061dc3c66f)
+- [ ] [Single Source of Truth как фундаментальная концепция](https://vimeo.com/372747166/6ebee82fde)
+ 
 
 ### Неделя 6
 
+- [ ] [Realtime: Введение](https://vimeo.com/352099236/9b26cdc18c)    
+- [ ] [Realtime: Современность](https://vimeo.com/352362647/13e3b7416a)     
+- [ ] [Работа с формами](https://vimeo.com/372747302/0766c7721d)     
+- [ ] [Работа с файлами](https://vimeo.com/372747454/57481241db)    
 - [x] [Promise: введение](https://vimeo.com/345292375/c57a673b84)
     - [Про промисы у Кантора](https://learn.javascript.ru/promise)
 - [x] [Promise: типичные ошибки](https://vimeo.com/345292802/00fc8d7ec5)
