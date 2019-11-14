@@ -19,10 +19,10 @@
 
 ### Неделя 8
 
-- [ ] [Типичные “слои” JS-приложения](https://vimeo.com/372747587/c54605e156)
-- [ ] [MVVM](https://vimeo.com/372747094)
-- [ ] [Event-driven architecture](https://vimeo.com/372747243/061dc3c66f)
-- [ ] [Single Source of Truth как фундаментальная концепция](https://vimeo.com/372747166/6ebee82fde)
+- [x] [Типичные “слои” JS-приложения](https://vimeo.com/372747587/c54605e156)
+- [x] [MVVM](https://vimeo.com/372747094)
+- [x] [Event-driven architecture](https://vimeo.com/372747243/061dc3c66f)
+- [x] [Single Source of Truth как фундаментальная концепция](https://vimeo.com/372747166/6ebee82fde)
  
 
 ### Неделя 6
